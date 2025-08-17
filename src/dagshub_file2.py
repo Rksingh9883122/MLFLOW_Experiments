@@ -14,7 +14,7 @@ from mlflow.entities import RunInfo
 import dagshub
 dagshub.init(repo_owner='Rksingh9883122', repo_name='MLFLOW_Experiments', mlflow=True)
 
-mlflow.set_tracking_uri("https://dagshub.com/Rksingh9883122/MLFLOW_Experiments.git")
+mlflow.set_tracking_uri("https://dagshub.com/Rksingh9883122/MLFLOW_Experiments.mlflow")
 
 # Load Wine dataset
 wine = load_wine()

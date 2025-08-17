@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/176398541015933514/e0a1939cba2e4693a84b26ebaf4ec4b6/artifacts
+end_time: 1755432685888
+entry_point_name: ''
+experiment_id: '176398541015933514'
+lifecycle_stage: active
+run_id: e0a1939cba2e4693a84b26ebaf4ec4b6
+run_name: smiling-penguin-969
+run_uuid: e0a1939cba2e4693a84b26ebaf4ec4b6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755432684632
+status: 3
+tags: []
+user_id: Raj
