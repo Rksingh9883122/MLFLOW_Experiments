@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Raj/Documents/MLOPS_3/MLFLOW_Experiments/mlruns/960156468823798496/916104d430e34f919cc245e5edd478c1/artifacts
+end_time: 1755434372714
+entry_point_name: ''
+experiment_id: '960156468823798496'
+lifecycle_stage: active
+run_id: 916104d430e34f919cc245e5edd478c1
+run_name: amazing-mule-63
+run_uuid: 916104d430e34f919cc245e5edd478c1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755434353299
+status: 4
+tags: []
+user_id: Raj

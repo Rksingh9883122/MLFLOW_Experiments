@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Raj/Documents/MLOPS_3/MLFLOW_Experiments/mlruns/960156468823798496/51568a127f084de3852ceadad17019d5/artifacts
+end_time: 1755434369477
+entry_point_name: ''
+experiment_id: '960156468823798496'
+lifecycle_stage: active
+run_id: 51568a127f084de3852ceadad17019d5
+run_name: thundering-shoat-747
+run_uuid: 51568a127f084de3852ceadad17019d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755434369239
+status: 3
+tags: []
+user_id: Raj

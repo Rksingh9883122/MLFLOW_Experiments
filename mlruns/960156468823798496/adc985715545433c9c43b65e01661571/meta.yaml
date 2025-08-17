@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Raj/Documents/MLOPS_3/MLFLOW_Experiments/mlruns/960156468823798496/adc985715545433c9c43b65e01661571/artifacts
+end_time: 1755433750183
+entry_point_name: ''
+experiment_id: '960156468823798496'
+lifecycle_stage: active
+run_id: adc985715545433c9c43b65e01661571
+run_name: bemused-ray-351
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755433750083
+status: 3
+tags: []
+user_id: Raj

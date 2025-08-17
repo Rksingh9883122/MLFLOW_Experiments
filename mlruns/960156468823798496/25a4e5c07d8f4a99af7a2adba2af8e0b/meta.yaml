@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Raj/Documents/MLOPS_3/MLFLOW_Experiments/mlruns/960156468823798496/25a4e5c07d8f4a99af7a2adba2af8e0b/artifacts
+end_time: 1755435602780
+entry_point_name: ''
+experiment_id: '960156468823798496'
+lifecycle_stage: active
+run_id: 25a4e5c07d8f4a99af7a2adba2af8e0b
+run_name: vaunted-calf-321
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755435573022
+status: 3
+tags: []
+user_id: Raj

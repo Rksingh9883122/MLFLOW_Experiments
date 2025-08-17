@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Raj/Documents/MLOPS_3/MLFLOW_Experiments/mlruns/960156468823798496/551c751b6ca54678b2c9a5b0deff8e26/artifacts
+end_time: 1755435589663
+entry_point_name: ''
+experiment_id: '960156468823798496'
+lifecycle_stage: active
+run_id: 551c751b6ca54678b2c9a5b0deff8e26
+run_name: resilient-shark-859
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755435589539
+status: 3
+tags: []
+user_id: Raj

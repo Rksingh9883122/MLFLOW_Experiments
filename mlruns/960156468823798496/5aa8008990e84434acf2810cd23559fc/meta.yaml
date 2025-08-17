@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Raj/Documents/MLOPS_3/MLFLOW_Experiments/mlruns/960156468823798496/5aa8008990e84434acf2810cd23559fc/artifacts
+end_time: 1755434019426
+entry_point_name: ''
+experiment_id: '960156468823798496'
+lifecycle_stage: active
+run_id: 5aa8008990e84434acf2810cd23559fc
+run_name: vaunted-bee-976
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755434019324
+status: 3
+tags: []
+user_id: Raj

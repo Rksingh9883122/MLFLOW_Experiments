@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Raj/Documents/MLOPS_3/MLFLOW_Experiments/mlruns/960156468823798496/8bd99baa7db946c08c976df642fba05f/artifacts
+end_time: 1755433750578
+entry_point_name: ''
+experiment_id: '960156468823798496'
+lifecycle_stage: active
+run_id: 8bd99baa7db946c08c976df642fba05f
+run_name: adaptable-ray-349
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755433750475
+status: 3
+tags: []
+user_id: Raj

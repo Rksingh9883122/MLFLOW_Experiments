@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Raj/Documents/MLOPS_3/MLFLOW_Experiments/mlruns/960156468823798496/a76e4e7995eb475b93621e8dc4cf8a74/artifacts
+end_time: 1755433750309
+entry_point_name: ''
+experiment_id: '960156468823798496'
+lifecycle_stage: active
+run_id: a76e4e7995eb475b93621e8dc4cf8a74
+run_name: magnificent-bat-546
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755433750209
+status: 3
+tags: []
+user_id: Raj

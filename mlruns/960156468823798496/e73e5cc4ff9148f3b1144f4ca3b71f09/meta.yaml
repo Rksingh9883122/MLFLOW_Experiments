@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Raj/Documents/MLOPS_3/MLFLOW_Experiments/mlruns/960156468823798496/e73e5cc4ff9148f3b1144f4ca3b71f09/artifacts
+end_time: 1755435589352
+entry_point_name: ''
+experiment_id: '960156468823798496'
+lifecycle_stage: active
+run_id: e73e5cc4ff9148f3b1144f4ca3b71f09
+run_name: sneaky-bear-796
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755435589237
+status: 3
+tags: []
+user_id: Raj

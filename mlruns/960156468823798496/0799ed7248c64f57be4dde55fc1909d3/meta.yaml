@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Raj/Documents/MLOPS_3/MLFLOW_Experiments/mlruns/960156468823798496/0799ed7248c64f57be4dde55fc1909d3/artifacts
+end_time: 1755434370371
+entry_point_name: ''
+experiment_id: '960156468823798496'
+lifecycle_stage: active
+run_id: 0799ed7248c64f57be4dde55fc1909d3
+run_name: salty-steed-422
+run_uuid: 0799ed7248c64f57be4dde55fc1909d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755434370163
+status: 3
+tags: []
+user_id: Raj

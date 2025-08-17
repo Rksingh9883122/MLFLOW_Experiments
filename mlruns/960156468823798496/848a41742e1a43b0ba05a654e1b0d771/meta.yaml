@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Raj/Documents/MLOPS_3/MLFLOW_Experiments/mlruns/960156468823798496/848a41742e1a43b0ba05a654e1b0d771/artifacts
+end_time: 1755433765599
+entry_point_name: ''
+experiment_id: '960156468823798496'
+lifecycle_stage: active
+run_id: 848a41742e1a43b0ba05a654e1b0d771
+run_name: fortunate-midge-979
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755433735929
+status: 3
+tags: []
+user_id: Raj

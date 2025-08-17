@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Raj/Documents/MLOPS_3/MLFLOW_Experiments/mlruns/960156468823798496/79b3072d31cb401a9895099988559f18/artifacts
+end_time: 1755434020095
+entry_point_name: ''
+experiment_id: '960156468823798496'
+lifecycle_stage: active
+run_id: 79b3072d31cb401a9895099988559f18
+run_name: grandiose-lamb-184
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755434019989
+status: 3
+tags: []
+user_id: Raj

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Raj/Documents/MLOPS_3/MLFLOW_Experiments/mlruns/960156468823798496/f5c8c121e1eb45bc81271934d03bfb60/artifacts
+end_time: 1755434019832
+entry_point_name: ''
+experiment_id: '960156468823798496'
+lifecycle_stage: active
+run_id: f5c8c121e1eb45bc81271934d03bfb60
+run_name: melodic-koi-259
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755434019720
+status: 3
+tags: []
+user_id: Raj

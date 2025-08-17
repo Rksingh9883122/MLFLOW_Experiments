@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Raj/Documents/MLOPS_3/MLFLOW_Experiments/mlruns/960156468823798496/c955ecb80e8a4f3388b73c4f0fb372cc/artifacts
+end_time: 1755434371316
+entry_point_name: ''
+experiment_id: '960156468823798496'
+lifecycle_stage: active
+run_id: c955ecb80e8a4f3388b73c4f0fb372cc
+run_name: defiant-bat-932
+run_uuid: c955ecb80e8a4f3388b73c4f0fb372cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755434371083
+status: 3
+tags: []
+user_id: Raj

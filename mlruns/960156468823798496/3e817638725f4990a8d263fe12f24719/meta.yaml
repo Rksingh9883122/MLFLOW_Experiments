@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Raj/Documents/MLOPS_3/MLFLOW_Experiments/mlruns/960156468823798496/3e817638725f4990a8d263fe12f24719/artifacts
+end_time: 1755434369134
+entry_point_name: ''
+experiment_id: '960156468823798496'
+lifecycle_stage: active
+run_id: 3e817638725f4990a8d263fe12f24719
+run_name: classy-fowl-798
+run_uuid: 3e817638725f4990a8d263fe12f24719
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755434368882
+status: 3
+tags: []
+user_id: Raj

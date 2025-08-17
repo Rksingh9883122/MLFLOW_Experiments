@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Raj/Documents/MLOPS_3/MLFLOW_Experiments/mlruns/960156468823798496/7c063ea50b4344f5a91dad54f3e597c4/artifacts
+end_time: 1755434019560
+entry_point_name: ''
+experiment_id: '960156468823798496'
+lifecycle_stage: active
+run_id: 7c063ea50b4344f5a91dad54f3e597c4
+run_name: sincere-crow-983
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755434019454
+status: 3
+tags: []
+user_id: Raj

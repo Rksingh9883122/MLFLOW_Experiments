@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Raj/Documents/MLOPS_3/MLFLOW_Experiments/mlruns/960156468823798496/7cf01e44cc4d4ec389d0defa163702cd/artifacts
+end_time: 1755434019696
+entry_point_name: ''
+experiment_id: '960156468823798496'
+lifecycle_stage: active
+run_id: 7cf01e44cc4d4ec389d0defa163702cd
+run_name: blushing-moose-206
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755434019586
+status: 3
+tags: []
+user_id: Raj

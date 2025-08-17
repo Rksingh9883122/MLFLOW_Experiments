@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Raj/Documents/MLOPS_3/MLFLOW_Experiments/mlruns/960156468823798496/dcfe3d1eaf884eae8f6911ba9146b70d/artifacts
+end_time: 1755434018896
+entry_point_name: ''
+experiment_id: '960156468823798496'
+lifecycle_stage: active
+run_id: dcfe3d1eaf884eae8f6911ba9146b70d
+run_name: likeable-asp-670
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755434018798
+status: 3
+tags: []
+user_id: Raj

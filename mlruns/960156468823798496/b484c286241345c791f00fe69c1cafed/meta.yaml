@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Raj/Documents/MLOPS_3/MLFLOW_Experiments/mlruns/960156468823798496/b484c286241345c791f00fe69c1cafed/artifacts
+end_time: 1755434370683
+entry_point_name: ''
+experiment_id: '960156468823798496'
+lifecycle_stage: active
+run_id: b484c286241345c791f00fe69c1cafed
+run_name: chill-mouse-951
+run_uuid: b484c286241345c791f00fe69c1cafed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755434370477
+status: 3
+tags: []
+user_id: Raj

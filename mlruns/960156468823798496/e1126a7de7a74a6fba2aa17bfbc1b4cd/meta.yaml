@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Raj/Documents/MLOPS_3/MLFLOW_Experiments/mlruns/960156468823798496/e1126a7de7a74a6fba2aa17bfbc1b4cd/artifacts
+end_time: 1755434019964
+entry_point_name: ''
+experiment_id: '960156468823798496'
+lifecycle_stage: active
+run_id: e1126a7de7a74a6fba2aa17bfbc1b4cd
+run_name: zealous-ant-94
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755434019856
+status: 3
+tags: []
+user_id: Raj

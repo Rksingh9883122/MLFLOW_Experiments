@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Raj/Documents/MLOPS_3/MLFLOW_Experiments/mlruns/960156468823798496/15dbf11869e240dea50aca1f174fba47/artifacts
+end_time: 1755435660814
+entry_point_name: ''
+experiment_id: '960156468823798496'
+lifecycle_stage: active
+run_id: 15dbf11869e240dea50aca1f174fba47
+run_name: suave-mouse-247
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755435632981
+status: 3
+tags: []
+user_id: Raj

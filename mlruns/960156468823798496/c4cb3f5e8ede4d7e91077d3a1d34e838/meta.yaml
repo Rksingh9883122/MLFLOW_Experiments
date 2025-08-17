@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Raj/Documents/MLOPS_3/MLFLOW_Experiments/mlruns/960156468823798496/c4cb3f5e8ede4d7e91077d3a1d34e838/artifacts
+end_time: 1755435590133
+entry_point_name: ''
+experiment_id: '960156468823798496'
+lifecycle_stage: active
+run_id: c4cb3f5e8ede4d7e91077d3a1d34e838
+run_name: stylish-hare-965
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755435590008
+status: 3
+tags: []
+user_id: Raj

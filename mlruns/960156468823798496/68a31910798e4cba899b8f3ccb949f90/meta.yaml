@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Raj/Documents/MLOPS_3/MLFLOW_Experiments/mlruns/960156468823798496/68a31910798e4cba899b8f3ccb949f90/artifacts
+end_time: 1755433751354
+entry_point_name: ''
+experiment_id: '960156468823798496'
+lifecycle_stage: active
+run_id: 68a31910798e4cba899b8f3ccb949f90
+run_name: tasteful-wasp-742
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755433751254
+status: 3
+tags: []
+user_id: Raj

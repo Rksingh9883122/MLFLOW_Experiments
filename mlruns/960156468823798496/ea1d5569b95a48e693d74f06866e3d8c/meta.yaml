@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Raj/Documents/MLOPS_3/MLFLOW_Experiments/mlruns/960156468823798496/ea1d5569b95a48e693d74f06866e3d8c/artifacts
+end_time: 1755435648802
+entry_point_name: ''
+experiment_id: '960156468823798496'
+lifecycle_stage: active
+run_id: ea1d5569b95a48e693d74f06866e3d8c
+run_name: bustling-ox-222
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755435648684
+status: 3
+tags: []
+user_id: Raj

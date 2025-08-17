@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Raj/Documents/MLOPS_3/MLFLOW_Experiments/mlruns/960156468823798496/3df6ec05c32341c7afd0711b0e88de57/artifacts
+end_time: 1755435649759
+entry_point_name: ''
+experiment_id: '960156468823798496'
+lifecycle_stage: active
+run_id: 3df6ec05c32341c7afd0711b0e88de57
+run_name: secretive-lark-241
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755435649646
+status: 3
+tags: []
+user_id: Raj

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Raj/Documents/MLOPS_3/MLFLOW_Experiments/mlruns/960156468823798496/3600ed91871e4383acef4ed3d8fbe0e4/artifacts
+end_time: 1755433751096
+entry_point_name: ''
+experiment_id: '960156468823798496'
+lifecycle_stage: active
+run_id: 3600ed91871e4383acef4ed3d8fbe0e4
+run_name: stately-hen-427
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755433751002
+status: 3
+tags: []
+user_id: Raj

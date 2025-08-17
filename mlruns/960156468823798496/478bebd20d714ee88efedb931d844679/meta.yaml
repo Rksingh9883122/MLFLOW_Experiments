@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Raj/Documents/MLOPS_3/MLFLOW_Experiments/mlruns/960156468823798496/478bebd20d714ee88efedb931d844679/artifacts
+end_time: 1755434368770
+entry_point_name: ''
+experiment_id: '960156468823798496'
+lifecycle_stage: active
+run_id: 478bebd20d714ee88efedb931d844679
+run_name: welcoming-ram-628
+run_uuid: 478bebd20d714ee88efedb931d844679
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755434368553
+status: 3
+tags: []
+user_id: Raj

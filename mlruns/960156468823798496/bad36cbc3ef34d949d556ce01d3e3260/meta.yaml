@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Raj/Documents/MLOPS_3/MLFLOW_Experiments/mlruns/960156468823798496/bad36cbc3ef34d949d556ce01d3e3260/artifacts
+end_time: 1755434369775
+entry_point_name: ''
+experiment_id: '960156468823798496'
+lifecycle_stage: active
+run_id: bad36cbc3ef34d949d556ce01d3e3260
+run_name: fearless-kit-482
+run_uuid: bad36cbc3ef34d949d556ce01d3e3260
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755434369563
+status: 3
+tags: []
+user_id: Raj

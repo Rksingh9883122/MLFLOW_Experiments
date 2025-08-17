@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Raj/Documents/MLOPS_3/MLFLOW_Experiments/mlruns/960156468823798496/2f1553ec3ee84d4db3abb969630794e9/artifacts
+end_time: 1755434019021
+entry_point_name: ''
+experiment_id: '960156468823798496'
+lifecycle_stage: active
+run_id: 2f1553ec3ee84d4db3abb969630794e9
+run_name: exultant-turtle-613
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755434018923
+status: 3
+tags: []
+user_id: Raj

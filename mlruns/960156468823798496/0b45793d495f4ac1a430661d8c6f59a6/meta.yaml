@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Raj/Documents/MLOPS_3/MLFLOW_Experiments/mlruns/960156468823798496/0b45793d495f4ac1a430661d8c6f59a6/artifacts
+end_time: 1755435590771
+entry_point_name: ''
+experiment_id: '960156468823798496'
+lifecycle_stage: active
+run_id: 0b45793d495f4ac1a430661d8c6f59a6
+run_name: whimsical-gnat-408
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755435590620
+status: 3
+tags: []
+user_id: Raj

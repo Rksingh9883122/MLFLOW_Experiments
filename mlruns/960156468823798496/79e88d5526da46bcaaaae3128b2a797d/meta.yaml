@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Raj/Documents/MLOPS_3/MLFLOW_Experiments/mlruns/960156468823798496/79e88d5526da46bcaaaae3128b2a797d/artifacts
+end_time: 1755435648198
+entry_point_name: ''
+experiment_id: '960156468823798496'
+lifecycle_stage: active
+run_id: 79e88d5526da46bcaaaae3128b2a797d
+run_name: crawling-shoat-108
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755435648086
+status: 3
+tags: []
+user_id: Raj

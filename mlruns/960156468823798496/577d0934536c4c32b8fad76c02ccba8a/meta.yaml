@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Raj/Documents/MLOPS_3/MLFLOW_Experiments/mlruns/960156468823798496/577d0934536c4c32b8fad76c02ccba8a/artifacts
+end_time: 1755435649464
+entry_point_name: ''
+experiment_id: '960156468823798496'
+lifecycle_stage: active
+run_id: 577d0934536c4c32b8fad76c02ccba8a
+run_name: defiant-eel-968
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755435649337
+status: 3
+tags: []
+user_id: Raj

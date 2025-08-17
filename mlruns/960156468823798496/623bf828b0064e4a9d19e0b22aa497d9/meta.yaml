@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Raj/Documents/MLOPS_3/MLFLOW_Experiments/mlruns/960156468823798496/623bf828b0064e4a9d19e0b22aa497d9/artifacts
+end_time: 1755435648647
+entry_point_name: ''
+experiment_id: '960156468823798496'
+lifecycle_stage: active
+run_id: 623bf828b0064e4a9d19e0b22aa497d9
+run_name: melodic-rat-176
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755435648505
+status: 3
+tags: []
+user_id: Raj

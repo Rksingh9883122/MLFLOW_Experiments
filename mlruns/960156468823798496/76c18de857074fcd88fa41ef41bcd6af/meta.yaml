@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Raj/Documents/MLOPS_3/MLFLOW_Experiments/mlruns/960156468823798496/76c18de857074fcd88fa41ef41bcd6af/artifacts
+end_time: 1755435649609
+entry_point_name: ''
+experiment_id: '960156468823798496'
+lifecycle_stage: active
+run_id: 76c18de857074fcd88fa41ef41bcd6af
+run_name: flawless-gnu-52
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755435649497
+status: 3
+tags: []
+user_id: Raj

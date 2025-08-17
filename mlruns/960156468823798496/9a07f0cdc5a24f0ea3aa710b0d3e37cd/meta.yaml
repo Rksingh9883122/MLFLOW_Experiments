@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Raj/Documents/MLOPS_3/MLFLOW_Experiments/mlruns/960156468823798496/9a07f0cdc5a24f0ea3aa710b0d3e37cd/artifacts
+end_time: 1755434370077
+entry_point_name: ''
+experiment_id: '960156468823798496'
+lifecycle_stage: active
+run_id: 9a07f0cdc5a24f0ea3aa710b0d3e37cd
+run_name: resilient-fox-20
+run_uuid: 9a07f0cdc5a24f0ea3aa710b0d3e37cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755434369869
+status: 3
+tags: []
+user_id: Raj

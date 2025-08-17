@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Raj/Documents/MLOPS_3/MLFLOW_Experiments/mlruns/960156468823798496/9bd0cefbd7ac4665922dad53f4f9ed52/artifacts
+end_time: 1755433750842
+entry_point_name: ''
+experiment_id: '960156468823798496'
+lifecycle_stage: active
+run_id: 9bd0cefbd7ac4665922dad53f4f9ed52
+run_name: rare-flea-666
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755433750732
+status: 3
+tags: []
+user_id: Raj

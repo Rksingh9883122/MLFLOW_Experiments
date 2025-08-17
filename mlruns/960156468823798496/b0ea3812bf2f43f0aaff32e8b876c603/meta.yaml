@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Raj/Documents/MLOPS_3/MLFLOW_Experiments/mlruns/960156468823798496/b0ea3812bf2f43f0aaff32e8b876c603/artifacts
+end_time: 1755435649133
+entry_point_name: ''
+experiment_id: '960156468823798496'
+lifecycle_stage: active
+run_id: b0ea3812bf2f43f0aaff32e8b876c603
+run_name: serious-flea-116
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755435648996
+status: 3
+tags: []
+user_id: Raj

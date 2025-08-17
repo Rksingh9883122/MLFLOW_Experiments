@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Raj/Documents/MLOPS_3/MLFLOW_Experiments/mlruns/960156468823798496/607ec3e8e74f48428554bbe38e1181eb/artifacts
+end_time: 1755434020239
+entry_point_name: ''
+experiment_id: '960156468823798496'
+lifecycle_stage: active
+run_id: 607ec3e8e74f48428554bbe38e1181eb
+run_name: languid-rook-535
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755434020124
+status: 3
+tags: []
+user_id: Raj

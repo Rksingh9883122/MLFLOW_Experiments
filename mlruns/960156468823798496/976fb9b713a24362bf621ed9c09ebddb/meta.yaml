@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Raj/Documents/MLOPS_3/MLFLOW_Experiments/mlruns/960156468823798496/976fb9b713a24362bf621ed9c09ebddb/artifacts
+end_time: 1755435590277
+entry_point_name: ''
+experiment_id: '960156468823798496'
+lifecycle_stage: active
+run_id: 976fb9b713a24362bf621ed9c09ebddb
+run_name: rumbling-flea-834
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755435590158
+status: 3
+tags: []
+user_id: Raj

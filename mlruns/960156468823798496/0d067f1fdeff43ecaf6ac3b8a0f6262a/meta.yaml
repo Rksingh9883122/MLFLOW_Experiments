@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Raj/Documents/MLOPS_3/MLFLOW_Experiments/mlruns/960156468823798496/0d067f1fdeff43ecaf6ac3b8a0f6262a/artifacts
+end_time: 1755434371904
+entry_point_name: ''
+experiment_id: '960156468823798496'
+lifecycle_stage: active
+run_id: 0d067f1fdeff43ecaf6ac3b8a0f6262a
+run_name: useful-sponge-122
+run_uuid: 0d067f1fdeff43ecaf6ac3b8a0f6262a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755434371702
+status: 3
+tags: []
+user_id: Raj

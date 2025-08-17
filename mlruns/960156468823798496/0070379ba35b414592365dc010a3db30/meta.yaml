@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Raj/Documents/MLOPS_3/MLFLOW_Experiments/mlruns/960156468823798496/0070379ba35b414592365dc010a3db30/artifacts
+end_time: 1755433750705
+entry_point_name: ''
+experiment_id: '960156468823798496'
+lifecycle_stage: active
+run_id: 0070379ba35b414592365dc010a3db30
+run_name: invincible-stag-899
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755433750604
+status: 3
+tags: []
+user_id: Raj
