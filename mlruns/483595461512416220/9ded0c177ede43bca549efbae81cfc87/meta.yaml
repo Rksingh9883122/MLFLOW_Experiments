@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/483595461512416220/9ded0c177ede43bca549efbae81cfc87/artifacts
+end_time: 1755416581289
+entry_point_name: ''
+experiment_id: '483595461512416220'
+lifecycle_stage: active
+run_id: 9ded0c177ede43bca549efbae81cfc87
+run_name: flawless-trout-638
+run_uuid: 9ded0c177ede43bca549efbae81cfc87
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755416579982
+status: 4
+tags: []
+user_id: Raj

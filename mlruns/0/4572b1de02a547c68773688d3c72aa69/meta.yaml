@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/4572b1de02a547c68773688d3c72aa69/artifacts
+end_time: 1755414389979
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4572b1de02a547c68773688d3c72aa69
+run_name: omniscient-hare-877
+run_uuid: 4572b1de02a547c68773688d3c72aa69
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755414388872
+status: 3
+tags: []
+user_id: Raj

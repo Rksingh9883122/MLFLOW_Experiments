@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/006898744b4d4374b81097cfec2f9ba5/artifacts
+end_time: 1755410891323
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 006898744b4d4374b81097cfec2f9ba5
+run_name: tasteful-gnu-444
+run_uuid: 006898744b4d4374b81097cfec2f9ba5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755410890998
+status: 3
+tags: []
+user_id: Raj

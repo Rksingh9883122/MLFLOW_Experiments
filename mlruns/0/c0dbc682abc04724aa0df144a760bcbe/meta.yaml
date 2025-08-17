@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/c0dbc682abc04724aa0df144a760bcbe/artifacts
+end_time: 1755414576517
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c0dbc682abc04724aa0df144a760bcbe
+run_name: efficient-stag-637
+run_uuid: c0dbc682abc04724aa0df144a760bcbe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755414575433
+status: 3
+tags: []
+user_id: Raj

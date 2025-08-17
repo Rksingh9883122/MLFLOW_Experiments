@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/483595461512416220/c015000c5b824ac3a6c15cb6aeff304a/artifacts
+end_time: 1755418536592
+entry_point_name: ''
+experiment_id: '483595461512416220'
+lifecycle_stage: active
+run_id: c015000c5b824ac3a6c15cb6aeff304a
+run_name: likeable-shad-967
+run_uuid: c015000c5b824ac3a6c15cb6aeff304a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755418535287
+status: 4
+tags: []
+user_id: Raj

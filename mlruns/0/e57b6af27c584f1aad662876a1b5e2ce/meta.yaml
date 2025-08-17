@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/e57b6af27c584f1aad662876a1b5e2ce/artifacts
+end_time: 1755409873366
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e57b6af27c584f1aad662876a1b5e2ce
+run_name: traveling-lamb-721
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755409873254
+status: 3
+tags: []
+user_id: Raj

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/483595461512416220/f6f25677834649c78f219e4d9b4f1718/artifacts
+end_time: 1755416306595
+entry_point_name: ''
+experiment_id: '483595461512416220'
+lifecycle_stage: active
+run_id: f6f25677834649c78f219e4d9b4f1718
+run_name: unleashed-panda-366
+run_uuid: f6f25677834649c78f219e4d9b4f1718
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755416305285
+status: 4
+tags: []
+user_id: Raj

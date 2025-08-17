@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/483595461512416220/7d5c23d2ea5f4fa494a68f5bc6df182c/artifacts
+end_time: 1755417719867
+entry_point_name: ''
+experiment_id: '483595461512416220'
+lifecycle_stage: active
+run_id: 7d5c23d2ea5f4fa494a68f5bc6df182c
+run_name: ambitious-donkey-111
+run_uuid: 7d5c23d2ea5f4fa494a68f5bc6df182c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755417718369
+status: 3
+tags: []
+user_id: Raj

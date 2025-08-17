@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/483595461512416220/9cdb450bab5f453d8474cdd88814f7bf/artifacts
+end_time: 1755416447562
+entry_point_name: ''
+experiment_id: '483595461512416220'
+lifecycle_stage: active
+run_id: 9cdb450bab5f453d8474cdd88814f7bf
+run_name: worried-finch-119
+run_uuid: 9cdb450bab5f453d8474cdd88814f7bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755416446167
+status: 4
+tags: []
+user_id: Raj

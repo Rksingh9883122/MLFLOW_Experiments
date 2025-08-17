@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/a1135ad2ccb34c8eb05c7201c793a3b0/artifacts
+end_time: 1755410367682
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a1135ad2ccb34c8eb05c7201c793a3b0
+run_name: gentle-dove-958
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755410367585
+status: 3
+tags: []
+user_id: Raj

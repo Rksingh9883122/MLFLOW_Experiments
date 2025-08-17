@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/324dbc6db7404a64a3ba57ed8df2c956/artifacts
+end_time: 1755412025335
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 324dbc6db7404a64a3ba57ed8df2c956
+run_name: luxuriant-ape-514
+run_uuid: 324dbc6db7404a64a3ba57ed8df2c956
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755412023678
+status: 3
+tags: []
+user_id: Raj

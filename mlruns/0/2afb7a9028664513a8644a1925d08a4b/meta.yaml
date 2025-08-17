@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/2afb7a9028664513a8644a1925d08a4b/artifacts
+end_time: 1755414946403
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2afb7a9028664513a8644a1925d08a4b
+run_name: rebellious-fawn-777
+run_uuid: 2afb7a9028664513a8644a1925d08a4b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755414945319
+status: 3
+tags: []
+user_id: Raj

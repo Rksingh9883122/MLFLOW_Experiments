@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/176398541015933514/66e4154c7fee45219dc47a971e15215d/artifacts
+end_time: 1755415583991
+entry_point_name: ''
+experiment_id: '176398541015933514'
+lifecycle_stage: active
+run_id: 66e4154c7fee45219dc47a971e15215d
+run_name: fun-ram-761
+run_uuid: 66e4154c7fee45219dc47a971e15215d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755415583000
+status: 3
+tags: []
+user_id: Raj

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/02949b26399845de9f53d41ff39ab69d/artifacts
+end_time: 1755415198166
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 02949b26399845de9f53d41ff39ab69d
+run_name: auspicious-sloth-247
+run_uuid: 02949b26399845de9f53d41ff39ab69d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755415197187
+status: 3
+tags: []
+user_id: Raj

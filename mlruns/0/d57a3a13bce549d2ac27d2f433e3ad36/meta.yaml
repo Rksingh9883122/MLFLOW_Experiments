@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/d57a3a13bce549d2ac27d2f433e3ad36/artifacts
+end_time: 1755415275480
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d57a3a13bce549d2ac27d2f433e3ad36
+run_name: adorable-mole-890
+run_uuid: d57a3a13bce549d2ac27d2f433e3ad36
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755415274512
+status: 3
+tags: []
+user_id: Raj

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/6fa07bf748154ef8999d43f50f7585ba/artifacts
+end_time: 1755415407544
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6fa07bf748154ef8999d43f50f7585ba
+run_name: sincere-wren-45
+run_uuid: 6fa07bf748154ef8999d43f50f7585ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755415406474
+status: 3
+tags: []
+user_id: Raj
